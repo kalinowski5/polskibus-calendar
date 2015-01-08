@@ -1,3 +1,7 @@
+Polski Bus / Mega Bus fare finder
+
+![](http://i.imgur.com/PM9VVP4.jpg)
+
 ## Features
 * Serving hundreds of cities in 3 regions:
     * Poland and Central Europe (http://www.bus-polski.pl)
