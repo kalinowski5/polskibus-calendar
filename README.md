@@ -1,4 +1,4 @@
-Polski Bus / Mega Bus fare finder
+### Polski Bus / Mega Bus fare finder
 
 ![](http://i.imgur.com/PM9VVP4.jpg)
 
